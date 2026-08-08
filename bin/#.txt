@@ -1,0 +1,1 @@
+splash.exe 5000 - Show on 5 sec and close
